@@ -1,0 +1,31 @@
+﻿  Source.cpp
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1198,39): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1198,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1199,43): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1200,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1205,39): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1205,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1206,42): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1207,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1221,39): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1221,46): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1221,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1225,30): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1238,22): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1240,23): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1243,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1244,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1245,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1252,24): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1253,24): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1254,24): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1261,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1262,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1263,21): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1272,12): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1274,13): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1296,16): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1299,16): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1302,16): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Project4\Source.cpp(1305,16): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Project4.vcxproj -> D:\Users\文\Desktop\大學\三上\OpenGL\hw\4\Project4\Debug\Project4.exe
