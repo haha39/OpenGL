@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Users\文\Desktop\大學\三上\OpenGL\3\hw3\hw3\Source.cpp(1209,14): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Users\文\Desktop\大學\三上\OpenGL\3\hw3\hw3\Source.cpp(1211,15): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  hw3.vcxproj -> D:\Users\文\Desktop\大學\三上\OpenGL\3\hw3\Debug\hw3.exe
